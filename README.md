@@ -7,3 +7,4 @@
 
 System requirements:
 - RStudio: https://rstudio-education.github.io/hopr/starting.html
+- Dataset link: https://www.datafiles.samhsa.gov/dataset/teds-d-2019-ds0001-teds-d-2019-ds0001
